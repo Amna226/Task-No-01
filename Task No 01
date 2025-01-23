@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Roll no:363538</title>
+</head>
+<body>
+    <h1>Amna</h1>
+    <p><strong>Web Developer │ Full Stack Enthusiast</strong> </p>
+    <img src="https://t3.ftcdn.net/jpg/07/52/08/12/360_F_752081227_nruXgif94zBL0Q4nYKNbrp0wQGvx6d6r.jpg" alt="50 width 50 length">
+<p>Hello! My name is Amna, and  I am passionate web developer with a stong interest in building  responsive and user-friendly web application.</p>
+<p>I aim to become a leading  full-stack  developer and contribute to the community by building innovative project.</p>
+<a href="https://www.linkedin.com/">Visit My Linkedin</a>
+<p><a href="markettingwithamna@gmail.com">Send me an email</a></p>
+<h1>Skills</h1>
+<ul>
+    <li>Fronted</li>
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+    <li>Java Script</li>
+</ul>
+<li>Backand</li>
+<ul>
+    <li>Node.js</li>
+    <li>Express.js</li>
+    <li>PostgreSQL</li>
+</ul>
+<h1>Technology Definitions</h1>
+<dl>
+    <dt>HTML</dt>
+    <dd>A markup language for  creating web pages.</dd>
+    <dt>CSS</dt>
+    <dd>A styling language for desingning web pages.</dd>
+    <dt>Java script</dt>
+   <dd>A programing language for adding interface feature to web  page</dd>
+</dl>
+</body>
+</html>
